@@ -1,0 +1,6 @@
+{
+  "name": "Chatbot Dokumen Hukum & RUU (Advanced RAG)",
+  "description": "Chatbot tanya jawab dokumen hukum dan RUU berbasis Advanced RAG dengan Hybrid Search, Re-ranking, Context Compression, dan Grounded Citation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
